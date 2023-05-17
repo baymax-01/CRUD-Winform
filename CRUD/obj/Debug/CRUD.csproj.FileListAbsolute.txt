@@ -1,0 +1,10 @@
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\bin\Debug\CRUD.exe.config
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\bin\Debug\CRUD.exe
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\bin\Debug\CRUD.pdb
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\obj\Debug\CRUD.exe
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\obj\Debug\CRUD.pdb
+D:\Mutayyab Smester 4\Database Management Systems LAB\LAB 07\CRUD\CRUD\obj\Debug\CRUD.EmpDetailsForm.resources
